@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @evertonruan
-- 👀 I’m interested in webdesign
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on brilliant and awesome projects
-- 📫 Send me an e-mail: evertonr0798@gmail.com
+Meu nome é Éverton Ruan
 
-I'm currently working on my brand-new project, called Enote. It's a simple notetaking app.
+Atualmente estou estudando tecnologias Web, como HTML, CSS e Javascript.
+Sou desenvolvedor Junior, por isso, estou fazendo projetos pessoais para melhorar minhas habilidades.
 
-Would you like to see?
-https://enoteapp.000webhostapp.com/
+Atualmente, desenvolvo um aplicativo chamado Enote.
+Basicamente, ele serve para realizar anotações, mas ele possui um design singular.
+
+Veja ele funcionando: https://enoteapp.000webhostapp.com/
+Ou acesse o código dele: 
