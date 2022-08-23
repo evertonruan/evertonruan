@@ -1,9 +1,12 @@
-Meu nome é Éverton Ruan
+### Meu nome é Éverton Ruan
 
-Atualmente estou estudando tecnologias Web, como HTML, CSS e Javascript.
-Sou desenvolvedor Junior, por isso, estou fazendo projetos pessoais para melhorar minhas habilidades.
+#### *Gosto muito de tecnologia e considero a programação algo fascinante!*
+Atualmente estou estudando tecnologias Web (HTML, CSS e Javascript)
 
-Atualmente, desenvolvo um aplicativo chamado Enote.
-Basicamente, ele serve para realizar anotações, mas ele possui um design singular.
+Sou desenvolvedor Junior, por isso estou fazendo projetos pessoais para melhorar minhas habilidades
 
-Veja ele funcionando: https://enoteapp.vercel.app/
+- Estou desenvolvendo um aplicativo chamado **noteous**
+
+  É um app de notas, que possui um design singular.
+
+  📝 Você pode acessá-lo aqui: https://enoteapp.vercel.app/
