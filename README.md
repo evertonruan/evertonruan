@@ -9,4 +9,4 @@ Sou desenvolvedor Junior, por isso estou fazendo projetos pessoais para melhorar
 
   É um app de notas, que possui um design singular.
 
-  📝 Você pode acessá-lo aqui: https://enoteapp.vercel.app/
+  📝 Você pode acessá-lo aqui: https://noteous.vercel.app/
