@@ -5,7 +5,7 @@ Atualmente estou estudando tecnologias Web
 
 - Estou desenvolvendo um web app chamado **noteous**
 
-  É um app de anotaçõesde tarefas e lembretes, que possui um design singular
+  É um app de anotações de tarefas e lembretes, que possui um design singular
 
   *📝 Comece a usar → https://noteous.app*
 
