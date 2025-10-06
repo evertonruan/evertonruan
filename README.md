@@ -1,13 +1,14 @@
-### Meu nome é Éverton Ruan
+### Bem-vindo!
 
-#### *Gosto muito de tecnologia e considero a programação algo fascinante!*
-Atualmente estou estudando tecnologias Web
+![noteous-presenting](https://github.com/user-attachments/assets/6ac3dbcc-6d7f-45b0-a72a-de37fdcfe47c)
 
-- Estou desenvolvendo um web app chamado **noteous**
+Conheça ***noteous***, um web app de notas que você vai amar!
 
-  É um app de anotações de tarefas e lembretes, que possui um design singular
 
-  *📝 Comece a usar → https://noteous.app*
 
 ▶️ **Acesse também meu canal no YouTube!**
-https://youtube.com/@everton-ruan
+
+![everton-ruan-presenting](https://github.com/user-attachments/assets/af9d6dc6-5e13-4dc8-9681-42035f4c7ee8)
+
+### https://youtube.com/@everton-ruan
+
