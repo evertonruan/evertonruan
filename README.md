@@ -2,7 +2,7 @@
 
 ![noteous-presenting](https://github.com/user-attachments/assets/6ac3dbcc-6d7f-45b0-a72a-de37fdcfe47c)
 
-Conheça ***noteous***, um web app de notas que você vai amar!
+Conheça [***noteous***](https://noteous.app), um web app de notas que você vai amar!
 
 
 
