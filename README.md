@@ -1,6 +1,7 @@
+
 ## Bem-vindo!
 
-![noteous-presenting](https://github.com/user-attachments/assets/6ac3dbcc-6d7f-45b0-a72a-de37fdcfe47c)
+<img width="432" height="240" alt="noteous-2ndgen-presenting-0626" src="https://github.com/user-attachments/assets/41ebda5d-e703-4cae-a3cf-28350080ce71" />
 
 🟠 Conheça [***noteous***](https://noteous.app), um web app de notas que você vai amar!
 
